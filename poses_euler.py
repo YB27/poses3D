@@ -1,5 +1,4 @@
 import math_utility
-import numba as nb
 import poses_quat
 import numpy as np
 import scipy.linalg.matfuncs
